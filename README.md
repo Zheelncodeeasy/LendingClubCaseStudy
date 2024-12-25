@@ -35,12 +35,12 @@ Lending Club Case Study
  -  Applicants with a record of public Bankruptcies are more likely to default on their loans.
  -  Surprisingly, applicants having verification status as ‘Verified’ have higher default rates.
  -  Applicants with lower credit card grades like F or G can also lead to loan defaulting.
- -  oans with a very high interest rate have a higher tendency in the possibility of loan defaulting
+ -  Loans with a very high interest rate have a higher tendency in the possibility of loan defaulting
  -  Applicants having more than 10 years of experience also show a higher tendency in loan defaulting.
  -  Applicants having small business and are consolidating their debts also have higher chances of loan defaulting.
  -  Applicants having higher funded amounts and high installments are more likely to default.
  -  Address states ‘TN’ and ‘AK’ have the highest number of applicants that have defaulted on their loans.
- -  Additionally, in the month of December many applicants have defaulted on their loans due to holiday season
+ -  Additionally, in the month of December many applicants have defaulted on their loans due to holiday season.
 
 
 
