@@ -1,48 +1,37 @@
-# Project Name
-> Outline a brief description of your project.
+Lending Club Case Study
+> Using EDA, we are required to find out the applicants who have defaulted on their loans.
 
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
-
-<!-- You can include any other section that is pertinent to your problem -->
-
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+## Dataset Information
+This dataset contains the complete loan data for all loans issued through the time period 2007 to 2011.
+ • We have conducted univariate and bivariate analysis specifically focusing on loans where the loan status 
+   is Charged Off.
+ • For this data set we have already performed the below steps:
+ 1. Data Cleaning
+ 2. Correcting Data Types
+ 3. Handling Null values
+ 4. Managing outliers
+ 5. Deriving new columns 
+ 6. Univariate Analysis for Categorical (Ordered and Unordered) Variables and Quantitative Variables
+ 7. Bivariate Analysis
 
 
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+## Summary
+ Applicants with High DTI have a higher tendency to default on their loans.
+ • Applicants who have a higher range of annual income can also tend to have higher default rates.
+ • Applicants with a record of public Bankruptcies are more likely to default on their loans.
+ • Surprisingly, applicants having verification status as ‘Verified’ have higher default rates.
+ • Applicants with lower credit card grades like F or G can also lead to loan defaulting.
+ • Loans with a very high interest rate have a higher tendency in the possibility of loan defaulting
+ • Applicants having more than 10 years of experience also show a higher tendency in loan defaulting.
+ • Applicants having small business and are consolidating their debts also have higher chances of loan defaulting.
+ • Applicants having higher funded amounts and high installments are more likely to default.
+ • Address states ‘TN’ and ‘AK’ have the highest number of applicants that have defaulted on their loans.
+ • Additionally, in the month of December many applicants have defaulted on their loans due to holiday season
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
 
 
-## Contact
-Created by [@githubusername] - feel free to contact me!
 
 
 <!-- Optional -->
