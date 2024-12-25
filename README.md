@@ -15,10 +15,10 @@ Lending Club Case Study
 
 
 ## Dataset Information
-This dataset contains the complete loan data for all loans issued through the time period 2007 to 2011.
- -  We have conducted univariate and bivariate analysis specifically focusing on loans where the loan status 
+- This dataset contains the complete loan data for all loans issued through the time period 2007 to 2011.-
+- We have conducted univariate and bivariate analysis specifically focusing on loans where the loan status 
    is Charged Off.
- -  For this data set we have already performed the below steps:
+- For this data set we have already performed the below steps:
  1. Data Cleaning
  2. Correcting Data Types
  3. Handling Null values
@@ -30,7 +30,7 @@ This dataset contains the complete loan data for all loans issued through the ti
 
 
 ## Summary
- Applicants with High DTI have a higher tendency to default on their loans.
+ - Applicants with High DTI have a higher tendency to default on their loans.
  -  Applicants who have a higher range of annual income can also tend to have higher default rates.
  -  Applicants with a record of public Bankruptcies are more likely to default on their loans.
  -  Surprisingly, applicants having verification status as ‘Verified’ have higher default rates.
